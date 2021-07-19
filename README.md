@@ -1,2 +1,2 @@
 # AfricaAnimals
-![Image](https://user-images.githubusercontent.com/86624629/126112942-a2bda48e-5cd1-4ea0-b6dd-ac1bea3ecb69.png)
+![Image](https://user-images.githubusercontent.com/86624629/126113182-266aafe0-4786-46df-8e72-fe2966b14d8e.png)
